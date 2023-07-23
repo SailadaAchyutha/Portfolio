@@ -6,7 +6,7 @@
 
 .bannerBgImage{
     height: 100vh;
-    background-image: url("/images/wally1.jpg");
+    background-image: url("./images/wally1.jpg");
     background-color: aquamarine; 
     background-size: cover;
     position: relative;
